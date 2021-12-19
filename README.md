@@ -1,3 +1,21 @@
+This is Jack in the Bot's Common Libary, used for swerve control, and other fancy fucntions. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # FRC Team 2910 Common code repository
 
 This repository contains code that is shared between applications and robots
